@@ -25,4 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
