@@ -1,16 +1,8 @@
 class Solution {
-    public int arrangeCoins(int n) {
-        int row=1;
-        long start=1;
-        long end =2;
-        long range=2;
+    public int arrangeCoins(long n) {
+   
+   int f = (int)Math.floor((Math.sqrt(8*n+1)-1)/2);
 
-        while(n<start || n>end){
-            row++;
-            start=end+1;
-            range++;
-            end=start+range-1;
-        }
-        return row;
-    }
+   return f;
+}
 }
