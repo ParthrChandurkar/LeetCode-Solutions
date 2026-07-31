@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
