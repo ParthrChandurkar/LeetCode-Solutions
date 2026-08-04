@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
