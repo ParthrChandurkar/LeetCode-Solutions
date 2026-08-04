@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0258-add-digits) |
