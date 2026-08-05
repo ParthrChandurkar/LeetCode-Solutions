@@ -11,7 +11,7 @@ class Solution {
             }
             else{
                 given[i] = 0 ;
-                
+            
             }
         }
 
