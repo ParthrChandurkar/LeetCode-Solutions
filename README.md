@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2485-find-the-pivot-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 ## Matrix
 |  |
 | ------- |
