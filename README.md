@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0709-to-lower-case](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 ## Two Pointers
 |  |
 | ------- |
