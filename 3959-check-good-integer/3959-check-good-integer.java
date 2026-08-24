@@ -8,13 +8,10 @@ class Solution {
         while(n>0){
             digit=n%10;
             dsum= dsum+digit;
+            ssum=ssum + digit*digit;
             n=n/10;
         }
-        while(original>0){
-            digit=original%10;
-            ssum=ssum + digit*digit;
-            original/=10;
-        }
+        
         return (ssum - dsum)>=50;
     }
 }
