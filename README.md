@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3959-check-good-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3959-check-good-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3959-check-good-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3959-check-good-integer) |
 ## Number Theory
 |  |
 | ------- |
