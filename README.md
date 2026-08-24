@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0441-arranging-coins) |
@@ -111,4 +112,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
