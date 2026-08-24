@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 ## Prefix Sum
 |  |
 | ------- |
