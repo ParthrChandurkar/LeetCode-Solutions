@@ -1,18 +1,23 @@
 class Solution {
     public int maxProduct(int n) {
 
-        List<Integer> digits = new ArrayList<>();
+        int largest = 0;
+        int second = 0;
 
         while(n > 0) {
+
             int digit = n % 10;
-            digits.add(digit);
+
+            if(digit > largest) {
+                second = largest;
+                largest = digit;
+            }
+            else if(digit > second) {
+                second = digit;
+            }
+
             n /= 10;
         }
-
-        Collections.sort(digits);
-
-        int largest = digits.get(digits.size() - 1);
-        int second = digits.get(digits.size() - 2);
 
         return largest * second;
     }
