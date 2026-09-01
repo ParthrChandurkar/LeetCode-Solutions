@@ -8,10 +8,10 @@ class Solution {
             if(num >largest){
                 second = largest ;
                 largest = num;
-            }
-            else if(num>second){
+            }else if(num>second){
                 second = num;
             }
+            
         }
         return (largest -1 )* (second - 1);
     }
