@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [3731-find-missing-elements](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3731-find-missing-elements](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
