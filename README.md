@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
