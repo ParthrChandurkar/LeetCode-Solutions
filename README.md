@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3959-check-good-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3959-check-good-integer) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
