@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
