@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0709-to-lower-case) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
