@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
