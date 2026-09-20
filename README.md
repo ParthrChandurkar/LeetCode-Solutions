@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [3498-reverse-degree-of-a-string](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/ParthrChandurkar/LeetCode-Solutions/tree/master/3959-check-good-integer) |
 ## Number Theory
 |  |
